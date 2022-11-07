@@ -7,6 +7,7 @@
 2. Raju Kumar
 3. Ravikanti Vaishnavi
 4. Sumayya
+
                                                      #******* Project Objective ********
                                                      
 The objective is to collect and process the data so that other data analysts and data scientists can utilize the data for their business use cases.

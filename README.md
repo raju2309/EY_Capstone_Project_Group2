@@ -8,11 +8,11 @@
 3. Ravikanti Vaishnavi
 4. Sumayya
 
-#******* Project Objective ********
+# PROJECT OBJECTIVE
                                                      
 The objective is to collect and process the data so that other data analysts and data scientists can utilize the data for their business use cases.
 
-#******* Tasks to be Performed ********
+# TASKS TO BE PERFORMED
                                                      
 1.Bronze Layer:- As a  data engineer we would first build the bronze layer where we would collect the data from the different sources
 2.Silver Layer:-Then we will build a silver layer where we will clean the data and remove all impurities such as missing values or datetime correction.
